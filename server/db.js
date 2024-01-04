@@ -158,3 +158,5 @@ const trips = [
 ];
 
 export default trips;
+
+console.log(trips[0].photos[0])
